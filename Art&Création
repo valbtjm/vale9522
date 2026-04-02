@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Boutique de bracelets brésiliens artisanaux et dessins faits main.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Créations Artisanales | Bracelets & Dessins</title>
+  <link rel="stylesheet" href="style.2.css">
+</head>
+<body>
+
+  <header class="banner">
+    <div class="container">
+      <h1>Créations Artisanales</h1>
+      <h2>Bracelets brésiliens et dessins faits main</h2>
+      <a href="#produits" class="btn">Voir la boutique</a>
+    </div>
+  </header>
+
+  <nav class="navbar">
+    <div class="container nav-content">
+      <div class="logo">Art & Couleurs</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Boutique</a></li>
+        <li><a href="voyages.html">Voyages</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <section class="container intro">
+      <h2>Bienvenue dans ma boutique</h2>
+      <p>
+        Découvrez mes créations originales : bracelets brésiliens colorés et dessins réalisés avec passion.
+        Chaque pièce est unique, faite à la main et pensée pour offrir un style personnel.
+      </p>
+    </section>
+
+    <section class="container" id="produits">
+      <h2 class="section-title">Mes produits</h2>
+
+      <div class="card">
+          <img src="C:\Users\valen\OneDrive - IESEG\Images\téléchargement (9).jpg" alt="Bracelet brésilien coloré">
+          <div class="card">
+          <h3>Bracelet Brésilien</h3>
+          <p>Bracelet tissé à la main, plusieurs couleurs disponibles.</p>
+          <p class="price">8 €</p>
+          <a href="#contact" class="btn-small">Commander</a>
+        </div>
+
+        <div class="card">
+          <img src="C:\Users\valen\OneDrive - IESEG\Images\images (8).jpg">
+          <h3>Dessin Original</h3>
+          <p>Dessin unique, parfait pour décorer une chambre ou offrir.</p>
+          <p class="price">15 €</p>
+          <a href="#contact" class="btn-small">Commander</a>
+        </div>
+
+        <div class="card">
+          <img src="C:\Users\valen\OneDrive - IESEG\Images\images (7).jpg" alt="Bracelet personnalisé">
+          <h3>Bracelet Personnalisé</h3>
+          <p>Choisissez vos couleurs et créez votre bracelet sur mesure.</p>
+          <p class="price">10 €</p>
+          <a href="#contact" class="btn-small">Commander</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="container about">
+      <h2>Pourquoi choisir mes créations ?</h2>
+      <ul>
+        <li>Fabrication artisanale</li>
+        <li>Produits uniques</li>
+        <li>Possibilité de personnalisation</li>
+        <li>Idéal pour offrir</li>
+      </ul>
+    </section>
+
+    <section class="container contact" id="contact">
+      <h2>Contact</h2>
+      <p>Pour commander un bracelet ou un dessin, écrivez-moi :</p>
+      <div data-tf-widget="dqpor4Qy" data-tf-opacity="100" data-tf-inline-on-mobile="" data-tf-iframe-props="https://form.typeform.com/to/gkOu03Ao" data-tf-transitive-search-params="" data-tf-disable-scroll="" data-tf-auto-resize="" data-tf-medium="snippet" style="width: 100%; height: 268px;" data-tf-loaded="true">
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2026 Art & Couleurs - Tous droits réservés</p>
+  </footer>
+
+</body>
+</html>
